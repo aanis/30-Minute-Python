@@ -1,4 +1,4 @@
-# Python Tutorial in 30 Minutes
+# Python in 30 Minutes
 
 ## First Program
 
